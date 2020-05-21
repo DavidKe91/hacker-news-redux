@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "444567569388fa7e797b",
-    "url": "/hacker-news-redux/static/js/main.44456756.chunk.js"
+    "revision": "4d2aa30f1f8a2526ef72",
+    "url": "/hacker-news-redux/static/js/main.4d2aa30f.chunk.js"
   },
   {
     "revision": "27a5708b981cfc673735",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/hacker-news-redux/static/js/runtime~main.ca87e6a8.js"
   },
   {
-    "revision": "3c1c0d24c6b9be0a32c5647da685422c",
+    "revision": "7f45127f50d3c78f623ca176e0e6fee6",
     "url": "/hacker-news-redux/index.html"
   }
 ];

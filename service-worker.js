@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hacker-news-redux/precache-manifest.5a84534277f22dde8306097d7c33c0ea.js"
+  "/hacker-news-redux/precache-manifest.28de089b357e625aae6cd8330dce3795.js"
 );
 
 workbox.clientsClaim();
